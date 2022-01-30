@@ -11,7 +11,8 @@ Eliminate the need to look up the same introductory documentation over and over,
 # Getting started
 
 ```
-git clone [url here]
+git clone https://github.com/lightrush/cli-template.git
+cd cli-template
 pipenv install
-./cli.py
+pipenv run ./cli.py
 ```
